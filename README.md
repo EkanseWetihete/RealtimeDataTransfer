@@ -21,7 +21,7 @@ A real-time file synchronization system that keeps clients and servers in sync v
 ## Quick Start
 
 ### Prerequisites
-- Python 3.7+
+- Tested only with: Python 3.13.1
 - Required packages:
 ```pip install websockets>=12.0 watchdog>=3.0.0 multipart psutil fastapi>=0.104.1 uvicorn[standard]>=0.24.0```
 
