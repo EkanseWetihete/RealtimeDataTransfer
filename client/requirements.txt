@@ -1,0 +1,4 @@
+websockets>=12.0
+watchdog>=3.0.0
+multipart
+psutil
